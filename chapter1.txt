@@ -1,1 +1,2 @@
 Hey ! I am  a software engineer at Microsoft
+I am a software engineer at Microsoft. I work on the Azure platform, focusing on the development 
